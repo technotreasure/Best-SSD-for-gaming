@@ -55,9 +55,18 @@ Give your gaming PC a speed boost with the best SSD for gaming.
 
 
 
+## 5. Crucial P1 1TB NVMe (QLC performance, low price, and high capacity)
 
 
+#### Capacity: 1TB | Controller: Silicon Motion SM2263 | Memory : Micron 3D QLC | Interface: M.2 PCIe 3.0 x4 | Seq. read: 2,000MB/s | Seq. write: 1,700MB/s
 
+* Faster than SATA
+* High capacity
+* Solid power efficiency
+* Price **RS.11,200** 
+
+
+ ![ Crucial P1 1TB NVMe](https://cdn.mos.cms.futurecdn.net/Xg8VwZvv4bvybNrpDxDzQH-650-80.jpg.webp)
 
 
 
