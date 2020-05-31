@@ -36,7 +36,8 @@ Give your gaming PC a speed boost with the best SSD for gaming.
 * Outstanding real-world performance
 * Price **RS.12,500**
 
-!Samsung 970 EVO 500GB](https://cdn.mos.cms.futurecdn.net/RALyP6HaRXPHMHECYSAdH3-650-80.jpg.webp)
+
+ ![Samsung 970 EVO 500GB](https://cdn.mos.cms.futurecdn.net/RALyP6HaRXPHMHECYSAdH3-650-80.jpg.webp)
 
 
 
