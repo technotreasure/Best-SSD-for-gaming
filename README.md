@@ -23,3 +23,44 @@ Give your gaming PC a speed boost with the best SSD for gaming.
 * Price **RS.18,853**
 
 ![WD Black SN750 1TB ](https://cdn.mos.cms.futurecdn.net/kQJvgCRqJkNg6eGgy8ck8J-650-80.jpg.webp)
+
+
+
+
+## 3. Samsung 970 EVO 500GB (The PCIe 3.0 performance option)
+
+
+#### Capacity: 500GB | Controller: Samsung Phoenix | Memory: Samsung 3-bit MLC | Interface: M.2 PCIe 3.0 x4 | Seq. read: 3,400MB/s | Seq. write: 2,300MB/s
+
+* Samsung SSD technology
+* Outstanding real-world performance
+* Price **RS.12,500**
+
+!Samsung 970 EVO 500GB](https://cdn.mos.cms.futurecdn.net/RALyP6HaRXPHMHECYSAdH3-650-80.jpg.webp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
