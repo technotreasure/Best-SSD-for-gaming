@@ -41,6 +41,17 @@ Give your gaming PC a speed boost with the best SSD for gaming.
 
 
 
+## 4. Crucial MX500 1TB(A great secondary storage drive)
+
+
+#### Capacity: 1TB | Controller: Silicon Motion SM2258 | Memory: Micron TLC | Interface: SATA 6Gb/s | Seq. read: 560MB/s | Seq. write: 510MB/s
+
+* One of the fastest SATA drives
+* Competitive price per GB
+* Price **RS.9,699** , **10,332** , **12,000**
+
+
+ ![Crucial MX500 1TB](https://cdn.mos.cms.futurecdn.net/q9Xbbhtgeh55zBqTNWzyMT-650-80.jpg.webp)
 
 
 
