@@ -70,7 +70,7 @@ Give your gaming PC a speed boost with the best SSD for gaming.
 
 
 
-##How we test SSDs
+## How we test SSDs
 
 SSDs make your whole system faster and more pleasant to use. But they matter for gaming, too. A fast-loading SSD can cut dozens of seconds off the load times of big games like Red Dead Redemption 2, Call of Duty: Modern Warfare, or MMOs like Final Fantasy XIV. An SSD won't usually affect framerates like your GPU or CPU, but it will make installing, booting, dying, and reloading in games a faster, smoother process.
 
