@@ -8,7 +8,7 @@ Give your gaming PC a speed boost with the best SSD for gaming.
 * Great value
 * Top-end PCIe 3.0 performance
 * Excellent endurance
-* Price **RS.33,157**
+* Price **RS 33,157**
 
 ![Addlink S70 512GB](https://cdn.mos.cms.futurecdn.net/q8ffBsbm8r2yZafJtFtD9S-650-80.jpg.webp)
 
@@ -20,7 +20,7 @@ Give your gaming PC a speed boost with the best SSD for gaming.
 * Competitive pricing
 * Serious SSD performance
 * In-house technology
-* Price **RS.18,853**
+* Price **RS 18,853**
 
 ![WD Black SN750 1TB](https://cdn.mos.cms.futurecdn.net/kQJvgCRqJkNg6eGgy8ck8J-650-80.jpg.webp)
 
@@ -34,7 +34,7 @@ Give your gaming PC a speed boost with the best SSD for gaming.
 
 * Samsung SSD technology
 * Outstanding real-world performance
-* Price **RS.12,500**
+* Price **RS 12,500**
 
 
  ![Samsung 970 EVO 500GB](https://cdn.mos.cms.futurecdn.net/RALyP6HaRXPHMHECYSAdH3-650-80.jpg.webp)
@@ -48,7 +48,7 @@ Give your gaming PC a speed boost with the best SSD for gaming.
 
 * One of the fastest SATA drives
 * Competitive price per GB
-* Price **RS.9,699** , **10,332** , **12,000**
+* Price **RS 9,699** , **RS 10,332** , **RS 12,000**
 
 
  ![Crucial MX500 1TB](https://cdn.mos.cms.futurecdn.net/q9Xbbhtgeh55zBqTNWzyMT-650-80.jpg.webp)
@@ -63,7 +63,7 @@ Give your gaming PC a speed boost with the best SSD for gaming.
 * Faster than SATA
 * High capacity
 * Solid power efficiency
-* Price **RS.11,200** 
+* Price **RS 11,200** 
 
 
  ![ Crucial P1 1TB NVMe](https://cdn.mos.cms.futurecdn.net/Xg8VwZvv4bvybNrpDxDzQH-650-80.jpg.webp)
