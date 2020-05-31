@@ -22,7 +22,7 @@ Give your gaming PC a speed boost with the best SSD for gaming.
 * In-house technology
 * Price **RS.18,853**
 
-![WD Black SN750 1TB ](https://cdn.mos.cms.futurecdn.net/kQJvgCRqJkNg6eGgy8ck8J-650-80.jpg.webp)
+![WD Black SN750 1TB](https://cdn.mos.cms.futurecdn.net/kQJvgCRqJkNg6eGgy8ck8J-650-80.jpg.webp)
 
 
 
