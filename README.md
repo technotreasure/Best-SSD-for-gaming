@@ -9,3 +9,4 @@ Give your gaming PC a speed boost with the best SSD for gaming.
 * Top-end PCIe 3.0 performance
 * Excellent endurance
 
+Format: ![Addlink S70 512GB](https://cdn.mos.cms.futurecdn.net/q8ffBsbm8r2yZafJtFtD9S-650-80.jpg.webp)
