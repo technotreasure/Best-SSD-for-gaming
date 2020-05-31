@@ -70,7 +70,15 @@ Give your gaming PC a speed boost with the best SSD for gaming.
 
 
 
+##How we test SSDs
 
+SSDs make your whole system faster and more pleasant to use. But they matter for gaming, too. A fast-loading SSD can cut dozens of seconds off the load times of big games like Red Dead Redemption 2, Call of Duty: Modern Warfare, or MMOs like Final Fantasy XIV. An SSD won't usually affect framerates like your GPU or CPU, but it will make installing, booting, dying, and reloading in games a faster, smoother process.
+
+When shopping for a good SSD for gaming, one of the most important factors is the price per gigabyte. How much will you have to spend to keep a robust library of Steam games installed, ready to be played at a moment's notice? With many new games surpassing the 50GB and even 150GB mark, this becomes even more critical.
+
+To find the best gaming SSDs, we researched the SSD market, picked out the strongest contenders, and put them through their paces with a variety of benchmarking tools. We also put in the research to know what makes a great SSD great, beyond the numbers—technical stuff like types of flash memory and controllers.
+
+PCIe 4.0 SSDs now supported by 3rd Gen AMD Ryzen CPUs and X570 motherboards. Sure, they're mighty for bandwidth, but when it's crunch-time in-game, there's not a vast amount more it can deliver than a PCIe 3.0 drive.
 
 
 
